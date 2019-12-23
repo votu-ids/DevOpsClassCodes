@@ -1,6 +1,6 @@
 
 Addressbook Tutorial V2.2
-#### Editing the readme to test automated build on CI Jenkins integrated with maven and git/github
+#### Vic Otu Editing the readme to test automated build on CI Jenkins integrated with maven and git/github
 
 
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
